@@ -1,0 +1,19 @@
+<div class="detail">
+            <details>
+                <summary>schooling</summary>
+                <p>sri chaitanya techno school
+                </p>
+                <p>percentage:90</p>
+               </details>
+               <details>
+                <summary>intermediate</summary>
+                <p>sri chaitanya junior kalasala</p>
+                <p>percentage:92</p>
+
+               </details>
+               <details>
+                <summary>B-tech</summary>
+                <p>vbit</p>
+                <p>percentage:83w</p>
+               </details>
+                </div>
